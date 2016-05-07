@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Taro Taro]]></title>
+        <description><![CDATA[Taro Taro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 16:42:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lazy Tuna Days</p>]]></description>
+            <link>undefinedlazy-tuna-days/index.html</link>
+            <guid isPermaLink="false">06d1b5e9-5e16-4cca-8c2a-a4a3b32558f5</guid>
+            <pubDate>Sat, 07 May 2016 16:42:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
